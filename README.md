@@ -1,5 +1,5 @@
 # Fash-Cards
-Learn new words with this app
+Flash Cards is a perfect program when you learn new words in a foreign language.
 
 What the application looks like:
 ![Screenshot 2022-10-27 10-52-22](https://user-images.githubusercontent.com/113987919/198243275-92f7241d-d72a-4091-a0ba-8fc7c6fa1f65.jpg)
