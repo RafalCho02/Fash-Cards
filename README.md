@@ -1,6 +1,6 @@
 # Fash-Cards
 Flash Cards is a perfect program when you learn new words in a foreign language. It will facilitate and improve your learning.
-You can easily upload your own word database to the program.
+You can easily upload your own word database to the program. The base for German-English flashcards is loaded there as standard
 
 What the application looks like:
 
